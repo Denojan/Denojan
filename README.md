@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denojan</h1>
-<h3 align="center">A passionate Undergraduate Software Engineer from Sri Lanka who loves to code and develop.</h3>
+<h3 align="center">A passionate Associate Software Engineer from Sri Lanka who loves to code and develop.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denojan&label=Profile%20views&color=0e75b6&style=flat" alt="denojan" /> </p>
-
-- 🔭 I’m currently working on **Pet Sheltering System**
-
-- 🔭I’m currently working on **Boarding android mobile application**
 
 - 📫 How to reach me **denojanse1009@gmail.com**
 
@@ -23,3 +19,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denojan&show_icons=true&locale=en&layout=compact" alt="denojan" /></p>
 
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=denojan&show_icons=true&theme=dark" alt="denojan" />
+    <img src="https://streak-stats.demolab.com/?user=denojan&theme=dark" alt="denojan streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denojan&show_icons=true&locale=en&layout=compact&theme=dark" alt="denojan languages" />
+</p>
